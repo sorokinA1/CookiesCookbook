@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/artem/Desktop/C#/04-Polymorphism/Polymorphism/CookiesCookBook/CookiesCookBook.csproj": {}
+  },
+  "projects": {
+    "/Users/artem/Desktop/C#/04-Polymorphism/Polymorphism/CookiesCookBook/CookiesCookBook.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/artem/Desktop/C#/04-Polymorphism/Polymorphism/CookiesCookBook/CookiesCookBook.csproj",
+        "projectName": "CookiesCookBook",
+        "projectPath": "/Users/artem/Desktop/C#/04-Polymorphism/Polymorphism/CookiesCookBook/CookiesCookBook.csproj",
+        "packagesPath": "/Users/artem/.nuget/packages/",
+        "outputPath": "/Users/artem/Desktop/C#/04-Polymorphism/Polymorphism/CookiesCookBook/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/artem/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.307/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
