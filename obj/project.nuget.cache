@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AXHsLJfqYaHJfNy+DrGaXr5BQwsOyjMi0TP+vzFL/3mmOISU3TroKDmIDtp+1R6TXD8TQXmC+MtiDndZv2dR0w==",
+  "dgSpecHash": "ZH0Qv7o2dtwiXEpLo+5+5RmWva1Q3eUl9A8mpjHJ6FtRr5m14Ho+oiWyveQOc9/yo2QR62ws7d4hAhv5eewPfw==",
   "success": true,
-  "projectFilePath": "/Users/artem/Desktop/C#/04-Polymorphism/Polymorphism/CookiesCookBook/CookiesCookBook.csproj",
+  "projectFilePath": "/Users/artem/Desktop/C#/04-Polymorphism/Polymorphism/CookiesCookBook/03_CookiesCookbook.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

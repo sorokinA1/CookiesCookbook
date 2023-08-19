@@ -1,4 +1,6 @@
-namespace CookiesCookBook.Recipes.Ingredients;
+﻿using CookieCookbook.Recipes.Ingredients;
+
+namespace CookieCookbook.Recipes;
 
 public class Recipe
 {
@@ -12,7 +14,7 @@ public class Recipe
     public override string ToString()
     {
         var steps = new List<string>();
-        foreach (var ingredient in Ingredients)
+        foreach(var ingredient in Ingredients)
         {
             steps.Add($"{ingredient.Name}. {ingredient.PreparationInstructions}");
         }
