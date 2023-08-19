@@ -1,4 +1,4 @@
-namespace CookiesCookBook.Recipes;
+namespace CookiesCookBook.Recipes.Ingredients;
 
 public class Chocolate : Ingredient
 {
